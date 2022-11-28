@@ -1,5 +1,7 @@
 ﻿# Házi feladat specifikáció
 
+### Kiadás/bevétel nyomkövető figyelmeztető funkcióval és grafikonokkal
+
 ## Bemutatás
 
 Ahogy a neve is mutatja, ez egy kiadás és bevétel nyomkövető alkalmazás, ahol a felhasználó nyomon tudja követni a bevételeit, illetve a kiadásait. Kiadásoknál kategóriákba szervezheti, hogy éppen mire költött, illetve kördiagram segítségével látható, hogy az adott időintervallumban az egyes kategóriákra mennyi kiadás történt. Hogyha az alkalmazásban szereplő összeg egy bizonyos szint alá csökken -ezt a szintet a felhasználó állítja be- az alkalmazás figyelmezteti a felhasználót erről a tényről. Az applikációban időrendi sorrendben listában egymás alatt jelennek meg a kiadások és a bevételek, illetve felül látszik a felhasználónak még mennyi jövedelme maradt az alkalmazás szerint. Ha a felhasználó szeretné törölhető egyszerre az összes bevétel és kiadás, erre van egy külön clear gomb. 
