@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Bank</string>
+    <string name="price">Price</string>
+    <string name="category">Category</string>
+    <string name="new_spending">New Spending</string>
+    <string name="new_income">New Income</string>
+    <string name="new_warning_price">New Warning Price</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="style">style</string>
+    <string name="spending">Spending</string>
+    <string name="income">Income</string>
+    <string name="change_warning_amount">Change Warning Amount</string>
+    <string name="new_price">New Price</string>
+    <string name="warn_message">Balance is below the warning price!</string>
+
+    <string-array name="category_items">
+        <item>Bills</item>
+        <item>Transportation</item>
+        <item>Groceries</item>
+        <item>Health</item>
+        <item>Home</item>
+        <item>Clothing</item>
+        <item>Entertainment</item>
+        <item>Other</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_style"
+        android:checkableBehavior="single"
+        android:icon="@drawable/ic_style"
+        android:title="@string/style"
+        app:showAsAction="ifRoom">
+        <menu>
+            <group android:checkableBehavior="none">
+                <item
+                    android:id="@+id/menu_style_spending"
+                    android:title="@string/spending" />
+                <item
+                    android:id="@+id/menu_style_income"
+                    android:title="@string/income" />
+                <item
+                    android:id="@+id/change_warning_amount"
+                    android:title="@string/change_warning_amount"/>
+            </group>
+        </menu>
+    </item>
+</menu>
